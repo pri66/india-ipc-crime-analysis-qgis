@@ -1,4 +1,5 @@
 # State-wise IPC Crime Analysis of India using QGIS
+![IPC Crime Dashboard](Screenshots/Screenshot 2026-06-30 173328.png
 A GIS dashboard analyzing the spatial distribution of cognizable IPC crimes across Indian states using QGIS 3.44 and NCRB crime statistics.
 ---
 ## Project Overview
